@@ -7,6 +7,8 @@ int main() {
     double num2;
     double result;
 
+    // Now lets work on the calculations
+
     printf("\nEnter an operator(+ - * /): ");
     scanf("%s", operator);
 
