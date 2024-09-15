@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Loodabeats Booking Website</title>
-
+<link name="stylesheet" href="style.css">
 </head>
 
 <body>
