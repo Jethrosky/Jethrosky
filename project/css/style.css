@@ -1,0 +1,15 @@
+.header {
+text-align: center;
+color: rgb(54, 15, 54);
+font-style: oblique;
+}
+.image {
+    align-content: center;
+    opacity: 80%;
+    padding: 0%;
+    border-bottom: -50%;
+}
+.button {
+    border-radius: 30%;
+    padding: 2px;
+}
