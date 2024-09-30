@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+}
+
+.heading {
+    position: relative;
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+.toptext {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.middle {
+    margin: 50px;
+    margin-top: 30px;
+}
+.booknow {
+    position:absolute;
+    width: 200px;
+    height: 50px;
+}
+.middlepicture {
+    max-width: 200px;
+}
