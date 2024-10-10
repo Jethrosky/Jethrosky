@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+.hiddenbutton {
+    margin-right: 6rem;
+    visibility: hidden;
+}
+.headerAll {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width:100%;
+    background-color: #2F4F4F;
+    overflow: hidden;
+}
+.textending {
+    position: relative;
+    display: flexbox;
+
+}
+.hidden2 {
+    width: rem;
+    visibility: hidden;
+    align-self: center;
+}
+.creds {
+    margin-left: 37%;
+}
+.middlesection {
+    padding: 2rem; 
+    position: relative; 
+    margin-left: 32%; 
+    margin-right: 32%; 
+    padding-top: 15%; 
+    color: white;
+}
+
+.midheads {
+    padding-bottom: 1rem;
+    font-size: 40px;
+}
+
+.formNew {
+    position: relative;
+    color: lightgray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 2rem;
+    border-spacing: 20px;
+}
+.headingfrm {
+    position: relative;
+    color: lightgray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 5rem;
+    font-size: 30px;
+}
