@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+.hiddenbutton {
+    margin-right: 6rem;
+    visibility: hidden;
+}
+.headerAll {
+    padding: 7px;
+    width:100%;
+    background-color: #2F4F4F;
+}
+.textending {
+    position: relative;
+    display: flexbox;
+
+}
+.hidden2 {
+    width: rem;
+    visibility: hidden;
+    align-self: center;
+}
