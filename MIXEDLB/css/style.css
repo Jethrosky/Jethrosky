@@ -22,3 +22,15 @@
     visibility: hidden;
     align-self: center;
 }
+.creds {
+    margin-left: 37%;
+}
+.middlesection {
+    padding: 2rem; 
+    position: relative; 
+    margin-left: 39%; 
+    margin-right: 38%; 
+    padding-top: 15%; 
+    color: white;
+}
+.p1 {
