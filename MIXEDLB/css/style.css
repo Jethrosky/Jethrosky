@@ -20,7 +20,7 @@
 
 }
 .hidden2 {
-    width: rem;
+    width: 1rem;
     visibility: hidden;
     align-self: center;
 }
