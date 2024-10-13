@@ -1,0 +1,181 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    overflow:scroll;
+}
+.navbar {
+    background-color: #4267b2;
+    color: white;   
+    display: flex;
+    justify-content:space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    width: auto;
+
+}
+.right-items {
+    position: relative;
+    display: flex;  
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.emailInput, .passwordInput {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+}
+.invisibleBtn1, .invisibleBtn2, .invisibleBtn3, .invisibleBtn4, .invisibleBtn5,.invisibleBtn6, .invisibleBtn7 {
+    visibility: hidden;
+}
+.loginBtnBox {
+    height: auto;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    flex-direction: column;
+    padding-left: 20px;
+}
+.loginBtn {
+    background-color: #4267b2;
+    padding-left: 12px; 
+    padding-right: 12px;
+    color: white;
+}
+.logofb {
+    font-size: 40px;
+}
+.leftHeading {
+    color: #365899;
+    padding: 32px;
+    font-size: 32px;
+    max-width: 80%;
+}
+.topMiddle {
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    height: 1000px;
+}
+.headimage {
+    position: relative;
+    max-width: 50%;
+    padding-top: 32px; 
+
+}   
+.headingFillerForm {
+    font-size: 40px;
+    color:#29487d;
+
+}
+.fillerform {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding-top: 32px;
+    width: 800px;
+}
+.bodyImage {
+    max-width: 80%;
+}
+.mainBody {
+    background-color: #e9ebee;
+    max-height: max-content;
+}
+.fillerFormMini {   
+    padding-top: 12px;
+    font-weight:normal;
+    word-spacing: 4px;
+    color:#29487d;
+}
+.forgotacc {
+    color: #9cb4d8;
+}
+.inputSignup {
+    padding-top: 10px;
+}
+.signNames {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+.otherDetails {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.detailsBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+.humanDetails {
+    gap: 30px;
+}
+.firstName, .lastName {
+    height: 28px;
+    width: 300px;
+}
+.mailOrNumber, .signUpPwd {
+    height: 28px;
+    margin-top: 20px;
+}
+.lastName {
+    margin-left: 20px;
+}
+.bday {
+    margin-top: 32px;
+    opacity: 72%;
+}
+.birthdayBox {
+    margin-top: 12px;
+}
+.day {
+    padding: 12px;
+    width: 100px;
+}
+.month {
+    padding: 12px;
+    width: 100px;
+}
+.year {
+    padding: 12px;
+    width: 100px;
+}
+.genderSelection {
+    margin-top: 32px;
+    opacity: 72%;
+}
+.radioBtns{
+    margin-top: 12px;
+}
+
+.radioGender {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.maleGender, .femaleGender, .customGender {
+    position: relative;
+}
+.lastStatement {
+    margin-top: 30px;
+    opacity: 50%;
+    max-width: 500px;
+}
+.invisibleBtn7 {
+    width: 300px;
+}
+.signUpBtn {
+    margin-top: 32px;
+    max-width: 220px;
+    height: 52px;
+    border-radius: 8px;
+    background-color: #2ea85a;
+    color: white;
+    font-size: 20px;
+}
